@@ -50,7 +50,8 @@ RegisterNumber: 25018849
 ## OUTPUT:
 
 
-<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/1b04aa5a-779c-4bde-94e7-4845f0c89028" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/c468e2e5-6113-43fb-8ff7-c745934ec7ff" />
+
 
 
 
